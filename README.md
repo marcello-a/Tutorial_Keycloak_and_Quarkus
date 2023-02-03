@@ -3,9 +3,6 @@
 Quarkus using OpenID connect - Keycloak
 =======================================
 
-The Quarkus guide you need
---------------------------
-
 Posted by [Marcello Alte](https://github.com/marcello-a) on August 24, 2019
 
 1.  [Abstract](#abstract)
